@@ -16,3 +16,14 @@ Can we use movie budgets to predict movie revenue? We can measure this
 | y                | Dependent Variable   | Target           | Renvenue    |
 | x                | Independent Variable | Feature          | Budget      |
 
+# The Forumla
+The regular line formula is y = mx + c
+In machine learning it is the following
+![machine learning formula]('basic-formula.png')
+h means Hypothesis
+
+With linear regression we want to find the line with the smallest residuals
+h(x1) is our fitted value
+(y1 - h(x1))^2 + (y2 - h(x2))^2 + ...
+
+![machine learning formulas]('sums.png')
