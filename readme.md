@@ -8,3 +8,11 @@ Turning data into value.
 Extracting patterns from data.
 ## Data Science
 Combines data mining and computer science and is used to make predictions and make insight.
+
+# How Data Scientist solve problems
+1. Forumulate the Question
+2. Gather the Data
+3. Clean the Data
+4. Explore and Visualise the Data
+5. Train the Algorithm to identitfy patterns in the data
+6. Evaulate the results
