@@ -5,7 +5,6 @@ certifi==2022.6.15.1
 charset-normalizer==2.1.1
 colorama==0.4.5
 colorlover==0.3.0
-cufflinks==0.17.3
 cycler==0.11.0
 debugpy==1.6.3
 decorator==5.1.1
